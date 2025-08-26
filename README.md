@@ -1,4 +1,4 @@
-# Modern Tech Solutions - HR Management System
+# VaultEdge - Reliable Security - Protecting what matters!
 
 **VaultEdge** is a security company providing high-quality security products, tailor-made packages, exclusive deals, and professional installation services for homes, offices, and commercial properties.
 
@@ -42,7 +42,7 @@
 
 ## Installation
 
-### :white_tick: Prerequisites
+### Prerequisites
 - Install **Node.js** (latest LTS recommended)
 - Install **MySQL** and ensure it is running
 ---
@@ -67,15 +67,15 @@
 3. **Configure Environment**  
    - Inside the `vaultedge_backend` folder, create a `.env` file and update it with your own configuration:
    - ```env
-    DB_HOST=localhost
-    DB_USER=root
-    DB_PASSWORD=yourpassword
-    DB_NAME=vault_edge
-    JWT_SECRET=your_secret_key
-    EMAIL_HOST=smtp.gmail.com
-    EMAIL_PORT=587
-    EMAIL_USER=youremail@gmail.com
-    EMAIL_PASS=your_app_password
+      DB_HOST=localhost
+      DB_USER=root
+      DB_PASSWORD=yourpassword
+      DB_NAME=vault_edge
+      JWT_SECRET=your_secret_key
+      EMAIL_HOST=smtp.gmail.com
+      EMAIL_PORT=587
+      EMAIL_USER=youremail@gmail.com
+      EMAIL_PASS=your_app_password
     ```
    -  ⚠️ Note: To generate an EMAIL_PASS for Gmail, enable 2-Step Verification on your Google account and create an App Password.
 
@@ -116,10 +116,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For support or inquiries, contact:  
+For support or enquiries, contact:  
 **Zoe Petersen**  
 Email: zoetylerhendricks23@gmail.com  
 GitHub: [Zoe Petersen] https://github.com/zoe-petersen
+
 ---
-
-
